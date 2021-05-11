@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="101">
+	<employee-name>Shams</employee-name>
+	<Employee-salary>500.5</Employee-salary>
+	<Project>
+		<Project-Name>Java</Project-Name>
+		<Project-Name>Oracle</Project-Name>
+		<Project-Name>Naresh I Technology</Project-Name>
+	</Project>
+	<Project-Clients>
+		<entry>
+			<key>c3</key>
+			<value>HORRKY</value>
+		</entry>
+		<entry>
+			<key>c2</key>
+			<value>MEGA-CROP</value>
+		</entry>
+		<entry>
+			<key>c1</key>
+			<value>ACT-ROM</value>
+		</entry>
+	</Project-Clients>
+	<Address>
+		<home_no>9-99/A-5</home_no>
+		<location>HYD</location>
+	</Address>
+	<subjects>
+		<Subject>Chemistry</Subject>
+		<Subject>Math</Subject>
+		<Subject>Physics</Subject>
+	</subjects>
+	<marks>
+		<entry>
+			<key>Java</key>
+			<value>40</value>
+		</entry>
+		<entry>
+			<key>Oracle</key>
+			<value>45</value>
+		</entry>
+		<entry>
+			<key>Spring</key>
+			<value>55</value>
+		</entry>
+	</marks>
+	<Course>
+		<cid>2015</cid>
+		<cname>Full Stack Developer</cname>
+		<sfee>103.9</sfee>
+	</Course>
+	<student>
+		<sid>1019</sid>
+		<sname>Shamshad</sname>
+	</student>
+</employee>
